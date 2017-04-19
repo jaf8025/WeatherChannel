@@ -4,19 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+19 Apr 2017
 
 ### Student Name:  
-(First and Last Name)
+John McDowell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Build a Seminole Weather Report using an Application Programming Interface (API) from APIXU using  jQuery, AJAX, and JSON-formatted data
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://jaf8025.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to build an application using an Application Programming Interface (API)
+2. How to use an API Key for authentication
+3. Parsing JSON data from an HTTP response message
+4. Using Ajax methods and properties that allow the Client to send an HTTP Request and receive back an
+HTTP Response
+
